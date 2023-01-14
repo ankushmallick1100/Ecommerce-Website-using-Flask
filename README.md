@@ -1,9 +1,9 @@
 # Ecommerce-Website-using-Flask
 
 Authors:
-Ankush Mallick
+[Ankush Mallick](http://surl.li/ekipz)
 <br>
-Debayan Kumar Ghosh
+[Debayan Kumar Ghosh](https://github.com/Debayan97531)
 
 Frontent: HTML,CSS and Javascrict 
 Backend: Python Flask.
